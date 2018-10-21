@@ -21,7 +21,7 @@
         <!-- The above 5 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <!-- title -->
         <title>صالوناتكم | حجز مواعيد الصالون والسبا عبر الانترنت | الصفحة الرئيسية</title>
-        <!-- The above 5 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <!-- The above 5 meta tags *must* come first in the head; any other head content must come *after* these tags -->j
         <!-- Favicon and Apple Icons -->
         <link rel="shortcut icon" href="https://salonatcom.com/interface/images/favico.ico">
         <!-- css => style sheet -->
