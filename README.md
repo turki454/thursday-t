@@ -24,7 +24,7 @@
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/bootstrap-theme.css" />
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/jquery.fancybox.css" />
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/jquery-ui.min.css" />
-	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/owl.carousel.css" />
+	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/owl.caroughjklsel.css" />lpkk
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/owl.transitions.css" />
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/owl.theme.css" />
 	<link rel="stylesheet" type="text/css" href="expandish/view/theme/aurora/css/jquery.mCustomScrollbar.css" />
