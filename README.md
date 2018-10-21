@@ -1,5 +1,4 @@
-# thursday-t
-Booking of times for shaving
+
 <!DOCTYPE HTML>
 <html lang="en" class="">
 
